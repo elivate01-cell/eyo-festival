@@ -1,0 +1,23 @@
+{
+  "name": "Eko Eyo Festival",
+  "slug": "eyo-festival",
+  "concept": "Eyo heritage festival",
+  "category": "culture-community",
+  "subcategory": "festival",
+  "description": "Poster-first festival site for an Eyo heritage procession: monumental type opening, day-by-day programme, procession route and ticket panel.",
+  "design_family": "monumental-poster",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "full-screen poster opening",
+    "minimal overlay navigation",
+    "programme timetable",
+    "procession route line",
+    "ticket price panel",
+    "respectful heritage notes"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
